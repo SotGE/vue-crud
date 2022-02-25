@@ -1,0 +1,114 @@
+[
+	{
+		"ID": 1,
+		"IDCounterparty": 5,
+		"Name": "Вышестоящие бюджеты",
+		"Abbreviation": "ВБ",
+		"Coming": 111,
+		"Care": 101
+	},
+	{
+		"ID": 2,
+		"IDCounterparty": 5,
+		"Name": "Градообразующее предприятие",
+		"Abbreviation": "ГРОП",
+		"Coming": 112,
+		"Care": 102
+	},
+	{
+		"ID": 3,
+		"IDCounterparty": 5,
+		"Name": "Органы местного самоуправления",
+		"Abbreviation": "ОМС",
+		"Coming": 1113,
+		"Care": 103
+	},
+	{
+		"ID": 4,
+		"IDCounterparty": 5,
+		"Name": "Местная промышленность и малый бизнес",
+		"Abbreviation": "МПиМБ",
+		"Coming": 114,
+		"Care": 104
+	},
+	{
+		"ID": 5,
+		"IDCounterparty": 5,
+		"Name": "Инфраструктура",
+		"Abbreviation": "ИНФ",
+		"Coming": 115,
+		"Care": 105
+	},
+	{
+		"ID": 6,
+		"IDCounterparty": 5,
+		"Name": "Население",
+		"Abbreviation": "НАС",
+		"Coming": 0,
+		"Care": 0
+	},
+	{
+		"ID": 7,
+		"IDCounterparty": 5,
+		"Name": "Внешняя среда",
+		"Abbreviation": "ВС",
+		"Coming": 116,
+		"Care": 106
+	},
+	{
+		"ID": 8,
+		"IDCounterparty": 10,
+		"Name": "Вышестоящие бюджеты",
+		"Abbreviation": "ВБ",
+		"Coming": 211,
+		"Care": 201
+	},
+	{
+		"ID": 9,
+		"IDCounterparty": 10,
+		"Name": "Градообразующее предприятие",
+		"Abbreviation": "ГРОП",
+		"Coming": 212,
+		"Care": 202
+	},
+	{
+		"ID": 10,
+		"IDCounterparty": 10,
+		"Name": "Органы местного самоуправления",
+		"Abbreviation": "ОМС",
+		"Coming": 213,
+		"Care": 203
+	},
+	{
+		"ID": 11,
+		"IDCounterparty": 10,
+		"Name": "Местная промышленность и малый бизнес",
+		"Abbreviation": "МПиМБ",
+		"Coming": 214,
+		"Care": 204
+	},
+	{
+		"ID": 12,
+		"IDCounterparty": 10,
+		"Name": "Инфраструктура",
+		"Abbreviation": "ИНФ",
+		"Coming": 215,
+		"Care": 205
+	},
+	{
+		"ID": 13,
+		"IDCounterparty": 10,
+		"Name": "Население",
+		"Abbreviation": "НАС",
+		"Coming": 0,
+		"Care": 0
+	},
+	{
+		"ID": 14,
+		"IDCounterparty": 10,
+		"Name": "Внешняя среда",
+		"Abbreviation": "ВС",
+		"Coming": 216,
+		"Care": 206
+	}
+]
